@@ -10,6 +10,9 @@ A setup for working on python in a vscode or gitpod container.
 - Run Docker Desktop
 - Open repo folder with VS Code using *Run Remote-Containers: Open Folder in Container...*
 
+Python 3 container is from https://github.com/microsoft/vscode-dev-containers/tree/master/containers/python-3
+ubuntu 18.04 based
+
 ## Gitpod
 
 ### Setup for GitHub/GitLab
